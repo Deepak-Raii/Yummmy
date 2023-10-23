@@ -9,3 +9,8 @@ User can save their favorite recipes, And i used Async-Storage here to save the 
 User can also check the ingredients of the recipe on the Press of link, Which is present on Details Screen.<br>
 User can see their favorite recipe anytime using favorite button.<br>
 I used spoonacular.com for the recipe in this Application. 
+
+
+<b>Installation</b><br>
+step 1: Download Expo Go application from playstore. <br>
+step 2: scan the QR code of QR.png file.
